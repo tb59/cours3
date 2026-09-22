@@ -1,5 +1,4 @@
-# demo-template
-
+# Dépôt d'introduction
 ## Objectifs
 
 À l'issue de ce tutoriel, vous devez savoir :
